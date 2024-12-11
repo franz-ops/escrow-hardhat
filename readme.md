@@ -18,6 +18,8 @@ After you have installed hardhat locally, you can use commands to test and compi
 
 Compile the contracts using `npx hardhat compile`. The artifacts will be placed in the `/app` folder, which will make it available to the front-end. This path configuration can be found in the `hardhat.config.js` file.
 
+Add Alchemy API Key in `App.js`.
+
 ## Front-End
 
 `cd` into the `/app` directory and run `npm install`
